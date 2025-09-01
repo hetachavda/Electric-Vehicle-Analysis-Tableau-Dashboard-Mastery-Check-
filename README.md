@@ -21,7 +21,6 @@ The analysis highlights:
 ## 🔎 Dashboards & Visuals  
 
 ### 1. Vehicles by Make/Model/Year  
-![Vehicles by Make/Model/Year] 
 - Tesla, Toyota, and Volvo dominate the EV landscape.  
 - Strong growth trend observed in **Model Year 2020+**, especially for Tesla Model 3, Y, and Toyota Prius Prime.  
 - New entrants like **Rivian** and **Lucid** visible in recent years.  
@@ -29,7 +28,6 @@ The analysis highlights:
 ---
 
 ### 2. Electric Range by Manufacturer  
-![Electric Range by Manufacturer] 
 - **VinFast** shows the highest electric range contributions due to aggregated reporting.  
 - Nissan Leaf and Mitsubishi Outlander also stand out among popular manufacturers.  
 - Electric ranges vary widely, reflecting different market positioning (long-range luxury vs. city commuting).  
@@ -37,7 +35,6 @@ The analysis highlights:
 ---
 
 ### 3. BEV vs PHEV Distribution  
-![BEV vs PHEV]
 - **BEVs (9,150)** significantly outnumber **PHEVs (5,642)**.  
 - Indicates stronger market adoption of **fully electric vehicles**.  
 - Policy and incentive programs likely driving BEV dominance.  
@@ -45,7 +42,6 @@ The analysis highlights:
 ---
 
 ### 4. CAFV Eligibility Counts  
-![CAFV Eligibility]
 - **6,933 vehicles** with eligibility unknown (data quality issue).  
 - **4,902 vehicles** marked eligible under CAFV.  
 - Transparency in eligibility reporting is critical for policy planning.  
@@ -53,7 +49,6 @@ The analysis highlights:
 ---
 
 ### 5. Map by City  
-![Map by City] 
 - EV adoption highest in **California, Washington, New York, and British Columbia**.  
 - Major urban hubs (Seattle, Vancouver, San Francisco, Toronto) dominate.  
 - Eastern Canada shows growing penetration of EVs in urban centers.  
